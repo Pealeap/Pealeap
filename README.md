@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img src="dN.webp" alt="Banner">
+<img src="banner1.webp" alt="Banner">
